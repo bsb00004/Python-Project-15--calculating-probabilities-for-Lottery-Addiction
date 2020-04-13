@@ -30,4 +30,4 @@ The file is saved as `649.csv` and read into the dataframe.
 ## Note
 ### - Please see the `lottery.ipynb` file to see whole project in detail.
 ### - Please see `lottery.py` file to see the python code.
-### - `649.csv` is the datasets we used in this project.
+### - `649.csv` is the dataset we used in this project.
